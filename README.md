@@ -1,7 +1,5 @@
 # Solana-Like-BlockChain
-================================================================================
- solana_like_chain.py -- A Solana-inspired blockchain, simplified & educational
-================================================================================
+solana_like_chain.py -- A Solana-inspired blockchain, simplified & educational
 
 A single-file simulation of a Solana-style blockchain. It's meant to teach
 the core ideas behind Solana's design, not to be a production system.
@@ -41,7 +39,7 @@ distributed system):
   - Real epochs, rent, vote accounts.
 
 Dependency:
-    ‘‘‘pip install cryptography’’’
+    pip install cryptography
 
 Run it:
-    ‘‘‘python solana_like_chain.py’’’
+    python solana_like_chain.py
